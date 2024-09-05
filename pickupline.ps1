@@ -2,7 +2,7 @@ $YESorno = Read-Host("Would you like to go dance cumbia with me? (Enter 1 or 2)"
 
 
 if ( $YESorno -eq 1 ) {
-    Write-Output ("Text my number for more information 914-382-7360")
+    Write-Output ("Text my number for more information")
 }
 
 elseif ( $YESorno -eq 2 ) {
